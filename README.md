@@ -7,9 +7,12 @@ This repository includes scripts for diagnostics of aerosol species and aerosol 
 --- Contact information: bo.huang@noaa.gov
 
 --- Note: 
-    --- Currently, this package is only ready for use on NOAA HERA HPC, because of the required libraries and executables.
-    --- It is only tested for global model. This package is under development and will include more capabilities and improve general flexibility.
-    --- If you plan to utilize this package for your work, please acknowledge our contributions in your future presentations/publications. 
+
+    -- Currently, this package is only ready for use on NOAA HERA HPC, because of the required libraries and executables.
+    
+    -- It is only tested for global model. This package is under development and will include more capabilities and improve general flexibility.
+    
+    -- If you plan to utilize this package for your work, please acknowledge our contributions in your future presentations/publications. 
 
 --- Repository description.   
 
