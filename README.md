@@ -8,7 +8,7 @@ This repository includes scripts for diagnostics of aerosol species and aerosol 
 
 -- If you plan to utilize this package for your work, please acknowledge our contributions in your future presentations/publications. 
 
---- Note: 
+--- Notes: 
 
     -- Currently, this package is only ready for use on NOAA HERA HPC, because of the required libraries and executables.
     
